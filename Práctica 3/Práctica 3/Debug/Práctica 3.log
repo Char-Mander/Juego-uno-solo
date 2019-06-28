@@ -1,0 +1,6 @@
+﻿  main.cpp
+\\psf\home\desktop\práctica 3\práctica 3\unosolo.h(11): warning C4091: 'typedef ': ignored on left of 'tEstado' when no variable is declared
+\\psf\home\desktop\práctica 3\práctica 3\unosolo.h(13): warning C4091: 'typedef ': ignored on left of 'tCelda' when no variable is declared
+\\psf\home\desktop\práctica 3\práctica 3\unosolo.h(15): warning C4091: 'typedef ': ignored on left of 'tDireccion' when no variable is declared
+\\psf\home\desktop\práctica 3\práctica 3\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Práctica 3.vcxproj -> \\psf\Home\Desktop\Práctica 3\Debug\Práctica 3.exe
